@@ -1,0 +1,9 @@
+[run]
+source =
+    game
+    tests
+omit =
+    env/*
+    */test*
+    */__init__.py
+[report]
